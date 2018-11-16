@@ -1,2 +1,1 @@
-# Welcome to MacroGlobe
-A globe for us all
+# A Globe for Us All
