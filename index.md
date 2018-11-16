@@ -1,1 +1,2 @@
-# Welcome to MacroGlobe
+# MacroGlobe
+Gaze on our planet
