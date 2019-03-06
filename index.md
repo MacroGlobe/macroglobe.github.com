@@ -1,1 +1,1 @@
-# A Digital Globe for Us All
+# Care for every person.
