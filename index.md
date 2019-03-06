@@ -1,1 +1,1 @@
-# Care for every person.
+# Care for Every Person.
