@@ -1,1 +1,1 @@
-# A Globe for Us All
+# A Digital Globe for Us All
