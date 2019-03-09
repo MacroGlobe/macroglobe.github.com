@@ -1,4 +1,4 @@
 # Our Missions
 - Watch natural hazards for lives and properties.
-- Support resilient and efficient growth.
+- Support operational optimizations of efficiency and resilience for organizations.
 - Promote a healthy and sustainable future.
