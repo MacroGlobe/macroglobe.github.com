@@ -1,4 +1,4 @@
 # Gaze on Our Planet
-- Watching natural hazards for lives and properties.
-- Promoting resilient and efficient growth.
-- Seeking healthy and sustainable future.
+- Watch natural hazards for lives and properties.
+- Support resilient and efficient growth.
+- Promote healthy and sustainable future.
